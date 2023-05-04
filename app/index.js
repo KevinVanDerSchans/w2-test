@@ -8,4 +8,11 @@ const checkIfTextContainsAllVowels = (word) => {
 
 checkIfTextContainsAllVowels('aeiou');
 
-export default checkIfTextContainsAllVowels;
+
+
+
+
+
+
+
+export default {checkIfTextContainsAllVowels, }
